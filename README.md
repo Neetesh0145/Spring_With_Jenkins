@@ -1,7 +1,7 @@
 # Spring_With_Jenkins
 
 Source Code in diff branch, checkout that for code,
-
+https://iroshandu.medium.com/build-spring-boot-maven-project-with-jenkins-and-copy-the-artifact-in-to-local-directory-c2910b8ba278
 
 Jenkins : http://localhost:8080/
 Jenkins Workspace: Building in workspace /Users/nitesh/.jenkins/workspace/Spring_Maven_Jenkins
